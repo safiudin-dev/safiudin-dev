@@ -6,8 +6,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/safiudin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekky-zainul-arifin-439981171" height="30" width="40" /></a>
-<a href="https://instagram.com/ekkyzainularifin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekkyzainularifin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/safiudin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safiudin-439981171" height="30" width="40" /></a>
+<a href="https://instagram.com/maz_sopek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safiudin" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiudin-dev&" alt="safiudin-dev" /></p>
