@@ -3,7 +3,7 @@
 <h1 align='center'> Hi! :wave: I'm Safiudin</h1>
 <h3 align="center">FULL STACK DEVELOPER FROM INDONESIA</h3>
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=12&center=true&vCenter=true&width=600&height=50&lines=Cari+duit+setengah+mati+,+Ngabisinnya+setengah+sadar" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=12&center=true&vCenter=true&width=600&height=50&lines=Cari+duit+setengah+mati+,+Ngabisinnya+setengah+sadar;Jangan+lupa+makan+karena+sejatinya+kita+bekerja+untuk+makan;Pergi+karena+tugas+pulang+karena+beras;Teruslah+bekerja+sampai+tetanggamu+menjengukmu+di+rumah+sakit" alt="Headline" />
     </div>
 <div>
 <div align=left>
