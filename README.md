@@ -14,7 +14,7 @@
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://wa.me/+6285230121658">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>😄 <b>Fun fact</b>: Driving(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://projects.co.id/public/browse_users/view/521f19/safi07">Click Here</a>.</li>
         </ul>
     </div>
